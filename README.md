@@ -31,7 +31,7 @@ Soy QA Tester con experiencia en pruebas funcionales, exploratorias y automatiza
 ## 📫 Contáctame
 
 - ✉️ itzelgalan@example.com  
-- 💼 [LinkedIn](www.linkedin.com/in/itzel-galan-454a331a9)
+- 💼 [LinkedIn](https://www.linkedin.com/in/itzel-galan-454a331a9)  
 - 🌐 En proceso: mi portafolio personal
 
 ---
