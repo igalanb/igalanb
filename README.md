@@ -1,51 +1,51 @@
-# 👩‍💻 Itzel Galan – QA Engineer
+# 👋 ¡Hola! Soy Itzel Galan
 
-QA Engineer especializada en pruebas manuales, funcionales y exploratorias. Con experiencia liderando estrategias de calidad en entornos financieros (PROSA, STP, PROCESAR), aplico herramientas como Postman, SQL, Jira y Xray para garantizar productos confiables y alineados al negocio.
+Soy QA Engineer con experiencia en pruebas manuales, exploratorias, regresión y UAT, enfocada en proyectos del sector financiero, asegurador y tecnológico. Me apasiona la calidad del software y el análisis funcional para asegurar productos confiables.
 
-## 🧪 Herramientas y Tecnologías
-- **Pruebas:** Manuales | Exploratorias | Regressión | UAT
-- **Herramientas:** Postman · Jira · Xray · Selenium · Charles Proxy
-- **Bases de Datos:** MySQL · Oracle (SQL)
-- **Metodologías:** Scrum · Kanban · Cascada
+Lidero iniciativas de pruebas utilizando herramientas como Jira, Postman y SQL, y me especializo en diseñar matrices de prueba, gestionar bugs y validar flujos críticos en entornos productivos.
 
 ---
 
-## 📂 Proyectos Destacados
+## 🧰 Herramientas y Tecnologías
 
-### 📌 [urban-lunch-testing](https://github.com/igalanb/urban-lunch-testing)
-**Proyecto QA móvil con TripleTen**  
-Casos de prueba, bugs reportados, checklist de validación y reporte final para app de pedidos.  
-Tecnologías: Jira, Postman, Checklist QA
+- **Testing:** Manual · Exploratorio · Regresión · UAT
+- **Herramientas:** Jira · Postman · Selenium · Xray · Charles Proxy
+- **Bases de Datos:** SQL · MySQL · Oracle
+- **Gestión:** Scrum · Trello · GitHub · Xporter
+- **Documentación:** Excel · Markdown · Google Docs
 
-### 📌 [farmacia-mercurio-tests](https://github.com/igalanb/farmacia-mercurio-tests)
-**Pruebas de caja negra y caja blanca para sistema de gestión de farmacias**  
-Incluye diseño de casos, flujo de código, complejidad ciclomática y documentación.  
-Tecnologías: MySQL, Selenium, JUnit
+---
 
-### 📌 [cbk-qa-local-circuit](https://github.com/igalanb/cbk-qa-local-circuit)
-**Simulación de pruebas para sistema de contracargos (CBK)**  
-Diseño de matrices y flujos para roles emisor/adquirente.  
-Tecnologías: Jira, SQL, Excel, Reporte PDF
+## 📌 Proyectos Destacados
+
+### [`movile-tripleten-sprint5`](https://github.com/igalanb/movile-tripleten-sprint5)  
+📱 *Validación funcional de aplicación móvil para pedidos (TripleTen)*  
+Incluye checklist, casos de prueba, bugs reportados y evidencia de ejecución.  
+**Herramientas:** Jira · Postman · Excel
+
+### [`aplicacion-bancaria-mba`](https://github.com/igalanb/aplicacion-bancaria-mba)  
+💰 *Pruebas funcionales para app bancaria móvil*  
+Reporte de bugs documentados, pruebas UAT y análisis exploratorio.  
+**Herramientas:** Jira · API Testing · Evidencias
+
+---
+
+## 💼 Sobre mí
+
+🔹 QA Engineer en IDS Consulting  
+🔹 He trabajado con PROSA, STP, Zurich, Yaydoo y más  
+🔹 Certificada en Testing con Postman, Scrum y manejo de bases de datos  
+🔹 Buscando seguir creciendo en automatización y liderazgo de calidad
 
 ---
 
 ## 🔗 Conecta conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/itzelgalanqa)
-- 💻 [Portafolio Técnico (GitHub Projects)](https://github.com/igalanb?tab=repositories)
 - 📧 itzel.galan.basurto@gmail.com
+- 📍 Ecatepec de Morelos, México | Remoto
 
 ---
 
-## 👣 Línea de Tiempo de Proyectos
+> “La calidad no se controla, se construye desde el principio.” 🧪
 
-| Año | Proyecto | Enlace |
-|-----|----------|--------|
-| 2023 | Yaydoo – Validación QA interna | 🔒 Privado |
-| 2024 | IDS – Proyectos PROSA/STP | 🔒 Privado |
-| 2024 | Farmacia Mercurio – pruebas QA | [Repo](https://github.com/igalanb/farmacia-mercurio-tests) |
-| 2025 | Urban Lunch – App QA | [Repo](https://github.com/igalanb/urban-lunch-testing) |
-
----
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=igalanb.igalanb)
